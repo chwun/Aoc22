@@ -1,0 +1,1 @@
+public record RoundOutcome(Figure opponent, Outcome outcome);
